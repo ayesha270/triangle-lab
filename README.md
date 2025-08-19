@@ -32,5 +32,3 @@
 * Designed primarily as an educational example demonstrating OOP concepts like constructor overloading, cloning, static methods, and encapsulation.
 
 ---
-
-If you want me to add or adjust anything else, just say!
